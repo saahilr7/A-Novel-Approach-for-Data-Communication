@@ -1,5 +1,6 @@
-# A-Novel-Approach-for-Data-Communication-Using-Efficient-Clustering-Mechanism
+# A-Novel-Approach-for-Data-Communication-Using-Efficient-Clustering-Mechanism 
 
+*********************************************************** NETWORKS PROJECT**********************************************************
 The future network environment will be extremely heterogeneous. There is an increasing need for an eﬃcient means of communication between these various heterogeneous devices. The main aim of the project is to provide an eﬃcient means of communication between diﬀerent heterogeneous devices that are present in a wireless network through an eﬃcient clustering mechanism. Identify various Clustering techniques in wireless networks consisting of heterogeneous nodes Comparison of diﬀerent clustering algorithms and their results in diﬀerent scenarios with respect to heterogeneous device communication Identify and select the routing algorithm for the routing of information between heterogeneous devices.
 
 Some of the important Clustering Protocols are described below:
