@@ -1,1 +1,3 @@
 # A-Novel-Approach-for-Data-Communication
+
+Convergence of communication and computing technologies is rapidly changing the requirement of wireless devices.The basic idea is a communication of various clusters in a clustered network. There has to be some mechanism to select an best suited algorithm dynamically for this communication between various clusters according to the type of communication that is taking place. An algorithm that is best suited in some situation may not be the best during other cases. So our main aim is to solve such a problem using some eﬃcient mechanism to carry out clustering.
